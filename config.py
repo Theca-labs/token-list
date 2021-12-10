@@ -1,0 +1,2 @@
+BOTNAME = "Theca_robot"
+TOKEN = "5054076377:AAEWuBIK8gccwH8g0_aqLkkrIPl6Yo55vyY"
